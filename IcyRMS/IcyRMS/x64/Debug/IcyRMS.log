@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\oskch\Desktop\IcyRMS\IcyRMS\main.cpp(12,32): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\oskch\Desktop\IcyRMS\IcyRMS\main.cpp(244,34): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\oskch\Desktop\IcyRMS\IcyRMS\main.cpp(261,55): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\oskch\Desktop\IcyRMS\IcyRMS\main.cpp(321,28): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskch\Desktop\IcyRMS\IcyRMS\main.cpp(338,28): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oskch\Desktop\IcyRMS\IcyRMS\main.cpp(398,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  IcyRMS.vcxproj -> C:\Users\oskch\Desktop\IcyRMS\x64\Debug\IcyRMS.exe
